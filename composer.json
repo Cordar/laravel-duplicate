@@ -1,5 +1,5 @@
 {
-    "name": "cordar/laravel-duplicate",
+    "name": "neurony/laravel-duplicate",
     "description": "Duplicate any Eloquent model along with its underlying relationships",
     "license": "MIT",
     "keywords": [
